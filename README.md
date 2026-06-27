@@ -33,13 +33,6 @@ cd js-calculator
 open index.html
 ```
 
-## Deploy to GitHub Pages
-
-1. Push the project to a GitHub repository
-2. Go to **Settings → Pages**
-3. Under **Source**, select the `main` branch and `/ (root)` folder
-4. Click **Save** — your site will be live at `https://itsmrroot.github.io/js-calculator`
-
 ## Project Structure
 
 ```
