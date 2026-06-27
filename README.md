@@ -4,8 +4,7 @@ A clean, modern calculator built with vanilla HTML, CSS, and JavaScript. Inspire
 
 ## Live Demo
 
-🔗 **[View Live](https://your-username.github.io/js-calculator)**
-> Replace the link above with your GitHub Pages URL once published.
+[![Open Live Demo](https://img.shields.io/badge/Open%20Live%20Demo-itsmrroot.github.io%2Fjs--calculator-blue?style=for-the-badge&logo=github)](https://itsmrroot.github.io/js-calculator)
 
 ---
 
@@ -29,7 +28,7 @@ A clean, modern calculator built with vanilla HTML, CSS, and JavaScript. Inspire
 No build tools needed. Just clone and open:
 
 ```bash
-git clone https://github.com/your-username/js-calculator.git
+git clone https://github.com/itsmrroot/js-calculator.git
 cd js-calculator
 open index.html
 ```
@@ -39,7 +38,7 @@ open index.html
 1. Push the project to a GitHub repository
 2. Go to **Settings → Pages**
 3. Under **Source**, select the `main` branch and `/ (root)` folder
-4. Click **Save** — your site will be live at `https://your-username.github.io/js-calculator`
+4. Click **Save** — your site will be live at `https://itsmrroot.github.io/js-calculator`
 
 ## Project Structure
 
